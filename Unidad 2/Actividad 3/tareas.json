@@ -1,0 +1,17 @@
+[
+    {
+        "tipo": "TareaRecurrente",
+        "titulo": "Limpiar mi cuarto",
+        "descripcion": "Tender la cama y acomodar las cosas",
+        "prioridad": "Media",
+        "completada": false,
+        "frecuencia": "diaria"
+    },
+    {
+        "tipo": "Tarea",
+        "titulo": "Hacer tarea ",
+        "descripcion": "Realizar tareas de tods las materias ",
+        "prioridad": "alta",
+        "completada": false
+    }
+]
