@@ -99,30 +99,30 @@ El modulo `persistencia.py` abstrae lectura y escritura de datos en archivos `li
 
 ## 5. Prueba de funcionamiento
 Este es el menu principal con el que estaremos trabajando, el cual proporciona todas las acciones que puede realizar nuestro programa. 
-![Funcion](1.png)
+![Funcion](img/1.png)
 
 
 Al seleccionar la opción 1 podremos agregar un nuevo libro, para ello se nos solicitará el título, autor y el año de publicación del libro. 
-![Funcion](2.png) 
+![Funcion](img/2.png) 
 
 
 Con la opción 2, podremos agregar un usuario. Aquí solo se nos pedirá el nombre del usuario que queremos agregar. 
-![Funcion](3.png)
+![Funcion](img/3.png)
 
 Al seleccionar la opción 3 veremos la lista de libros disponibles, en donde podemos ver el id, el nombre del libro, el autor, el año y el estado del libro. 
-![Funcion](4.png) 
+![Funcion](img/4.png) 
 
 Con la opción 4, podemos realizar la opción de prestar un libro. 
 Primero se nos muestra la lista de libros y los usuarios. 
 Después nos pide ingresar el id del libro a prestar y el id del usuario que lo tomara. 
-![Funcion](5.png) 
+![Funcion](img/5.png) 
 
 Al seleccionar la opción 5 podemos realizar la opción de devolver el libro, aquí se nos pide nuevamente el id del libro prestado y el id del usuario al cual se le prestó. 
-![Funcion](6.png) 
+![Funcion](img/6.png) 
 
 
 La opción 6 nos muestra la lista de los usuarios que han sido guardados con sus respectivos datos.  
-![Funcion](7.png)
+![Funcion](img/7.png)
 
 Por último la opción 7 nos permitirá guardar los datos y salir del programa. 
-![Funcion](8.png)
+![Funcion](img/8.png)
