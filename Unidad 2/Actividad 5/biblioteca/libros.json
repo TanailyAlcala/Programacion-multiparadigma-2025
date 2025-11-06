@@ -1,0 +1,23 @@
+[
+    {
+        "id": "2b873b7d",
+        "titulo": "Crepusculo",
+        "autor": "Stephany Mayer",
+        "año": 2008,
+        "estado": "disponible"
+    },
+    {
+        "id": "d6f2d713",
+        "titulo": "Cronicas de narnia",
+        "autor": "Cs Lewis ",
+        "año": 1060,
+        "estado": "disponible"
+    },
+    {
+        "id": "abae8435",
+        "titulo": "La quimica del amor ",
+        "autor": "Ali Hazelwood",
+        "año": 2020,
+        "estado": "disponible"
+    }
+]
